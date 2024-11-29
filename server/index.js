@@ -3,13 +3,6 @@ const mysql = require('mysql2');
 const dotenv = require('dotenv');
 const cors = require('cors');
 
-dotenv.config(); 1 
-
-const express = require('express');
-const mysql = require('mysql2');
-const dotenv = require('dotenv');
-const cors = require('cors');
-
 dotenv.config();
 
 const app = express();
